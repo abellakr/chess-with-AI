@@ -4,7 +4,9 @@
 
 ## how to compile
 terminal command:
+
 javac main.java
+
 java main
 
 ## controls
